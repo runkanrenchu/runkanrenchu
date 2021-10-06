@@ -10,7 +10,7 @@ I started game-dev because I want to contribute to the gaming community with all
 I have a passion for all tech-related stuff. And I thought it was time I could pour some of my creativity in these projects, that ended up being
 more than just a hobby. ✨
 
-You can find me on my [itch.io page](renchuaintreal.itch.io), were I post WIPs of my stuff.
+You can find me on my [itch.io page](https://renchuaintreal.itch.io/), were I post WIPs of my stuff.
 
 ### Personally...
 
