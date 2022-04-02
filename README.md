@@ -1,8 +1,8 @@
 ## Hi there! 💜
 
-I'm Runkan Renchu, Alex for short.
+I'm Runkan Renchu, BSOD for short.
 
-I'm currently working on **School**, a personal project, and **Max Doesn't Know**, a platformer game in early-development stage.
+I'm currently working on Pico Day 2022.
 
 I'm learning [Haxe](https://haxe.org/). I use [Flixel](https://haxeflixel.com/) for all of my work.
 
