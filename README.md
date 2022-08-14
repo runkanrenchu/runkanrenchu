@@ -2,8 +2,6 @@
 
 I'm Runkan Renchu, BSOD for short.
 
-I'm currently working on Pico Day 2022.
-
 I'm learning [Haxe](https://haxe.org/). I use [Flixel](https://haxeflixel.com/) for all of my work.
 
 I started game-dev because I want to contribute to the gaming community with all of my ideas and enthusiasm, in the form of these small web games.
